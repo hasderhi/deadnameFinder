@@ -1,6 +1,6 @@
 # GitHub Repository Deadname Indexer
 
-A small Python utility that automatically scans all your GitHub repositories for unwanted occurrences of specific terms (such as your old name), indexes where they appear, and saves the results for easy cleanup. You can obviously use this for everything, not just you deadname. I just happened to have that specific use case.
+A small Python utility that automatically scans all your GitHub repositories for unwanted occurrences of specific terms (such as your old name), indexes where they appear, and saves the results for easy cleanup. You can obviously use this for everything, not just your deadname. I just happened to have that specific use case.
 
 ---
 
